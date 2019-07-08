@@ -1,2 +1,2 @@
 # -happy-face
-Using image processing for classify a face as happy or sad
+Using image processing for classifying a face as happy or sad
